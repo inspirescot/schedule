@@ -1,0 +1,68 @@
+pillar_rank,pillar_hub,hub_type,region,parent_hub,status,suggested_title,pillar_keyword,pillar_kw_volume,pillar_kw_kd,direct_spokes,child_hubs
+1,England,Country hub,UK,UK,New pillar to create,"England Travel Guide: Where to Eat, Drink and Explore",england travel guide,,,16,London
+2,Spain,Country hub,Europe,Europe,New pillar to create,"Spain Travel Guide: Where to Eat, Drink and Explore",spain travel guide,,,14,"Barcelona, Madrid"
+3,Europe,Region hub,Europe,Home / Destinations,New pillar to create,"Europe Travel Guide: Best Places to Eat, Drink and Explore",europe travel guide,,,11,"Amsterdam, Berlin, Budapest, Copenhagen, Croatia, France, Greece, Ireland, Istanbul, Italy, Krakow, Munich, Portugal, Prague, Spain, Switzerland, Vienna"
+4,USA,Country hub,North America,North America,Existing USA post,"USA Travel Guide: Where to Eat, Drink and Explore",usa travel guide,,,13,"Austin, Charleston, Chicago, Miami, Nashville, New Orleans, New York, San Francisco, Savannah"
+5,Copenhagen,City hub,Europe,Europe,New pillar to create,"Copenhagen Travel Guide: Where to Eat, Drink and Explore",copenhagen travel guide,370,18.7,4,
+6,Lisbon,City hub,Europe,Portugal,New pillar to create,"Lisbon Travel Guide: Where to Eat, Drink and Explore",lisbon travel guide,210,16.0,9,
+7,Paris,City hub,Europe,France,New pillar to create,"Paris Travel Guide: Where to Eat, Drink and Explore",paris travel guide,310,35.5,8,
+8,Rome,City hub,Europe,Italy,New pillar to create,"Rome Travel Guide: Where to Eat, Drink and Explore",rome travel guide,260,24.0,8,
+9,Prague,City hub,Europe,Europe,New pillar to create,"Prague Travel Guide: Where to Eat, Drink and Explore",prague travel guide,740,34.2,7,
+10,Madrid,City hub,Europe,Spain,New pillar to create,"Madrid Travel Guide: Where to Eat, Drink and Explore",madrid travel guide,590,21.3,6,
+11,Edinburgh,City hub,UK,Scotland,Existing Edinburgh post,"Edinburgh Travel Guide: Where to Eat, Drink and Explore",edinburgh travel guide,170,25.0,8,
+12,Osaka,City hub,Asia,Japan,New pillar to create,"Osaka Travel Guide: Where to Eat, Drink and Explore",osaka travel guide,260,35.0,7,
+13,Tokyo,City hub,Asia,Japan,Existing Tokyo post,"Tokyo Travel Guide: Where to Eat, Drink and Explore",tokyo travel guide,,,6,
+14,Italy,Country hub,Europe,Europe,New pillar to create,"Italy Travel Guide: Where to Eat, Drink and Explore",italy travel guide,,,10,"Florence, Naples, Rome, Venice"
+15,Bangkok,City hub,Asia,Thailand,New pillar to create,"Bangkok Travel Guide: Where to Eat, Drink and Explore",bangkok travel guide,370,18.9,7,
+16,London,City hub,UK,England,Existing London post,"London Travel Guide: Where to Eat, Drink and Explore",london travel guide,,,10,
+17,Barcelona,City hub,Europe,Spain,Existing Barcelona post,"Barcelona Travel Guide: Where to Eat, Drink and Explore",barcelona travel guide,210,14.0,6,
+18,Florence,City hub,Europe,Italy,New pillar to create,"Florence Travel Guide: Where to Eat, Drink and Explore",florence travel guide,350,22.8,5,
+19,Venice,City hub,Europe,Italy,New pillar to create,"Venice Travel Guide: Where to Eat, Drink and Explore",venice travel guide,460,18.8,6,
+20,Amsterdam,City hub,Europe,Europe,Existing Amsterdam post,"Amsterdam Travel Guide: Where to Eat, Drink and Explore",amsterdam travel guide,,,6,
+21,Singapore,Country hub,Asia,Asia,New pillar to create,"Singapore Travel Guide: Where to Eat, Drink and Explore",singapore travel guide,460,16.0,7,
+22,Nashville,City hub,North America,USA,New pillar to create,"Nashville Travel Guide: Where to Eat, Drink and Explore",nashville travel guide,590,13.0,6,
+23,Athens,City hub,Europe,Greece,Existing Athens post,"Athens Travel Guide: Where to Eat, Drink and Explore",athens travel guide,,,6,
+24,Berlin,City hub,Europe,Europe,New pillar to create,"Berlin Travel Guide: Where to Eat, Drink and Explore",berlin travel guide,490,25.1,3,
+25,New York,City hub,North America,USA,Existing NYC post,"New York Travel Guide: Where to Eat, Drink and Explore",new york travel guide,,,7,
+26,Budapest,City hub,Europe,Europe,New pillar to create,"Budapest Travel Guide: Where to Eat, Drink and Explore",budapest travel guide,740,9.1,3,
+27,Munich,City hub,Europe,Europe,New pillar to create,"Munich Travel Guide: Where to Eat, Drink and Explore",munich travel guide,,,3,
+28,New Orleans,City hub,North America,USA,New pillar to create,"New Orleans Travel Guide: Where to Eat, Drink and Explore",new orleans travel guide,,,8,
+29,Dublin,City hub,Europe,Ireland,New pillar to create,"Dublin Travel Guide: Where to Eat, Drink and Explore",dublin travel guide,370,31.2,4,
+30,Kyoto,City hub,Asia,Japan,New pillar to create,"Kyoto Travel Guide: Where to Eat, Drink and Explore",kyoto travel guide,430,33.2,4,
+31,Asia,Region hub,Asia,Home / Destinations,New pillar to create,"Asia Travel Guide: Best Places to Eat, Drink and Explore",asia travel guide,,,6,"Hong Kong, Japan, Seoul, Singapore, Thailand, Vietnam"
+32,Canada,Country hub,North America,North America,New pillar to create,"Canada Travel Guide: Where to Eat, Drink and Explore",canada travel guide,,,6,
+33,Croatia,Country hub,Europe,Europe,New pillar to create,"Croatia Travel Guide: Where to Eat, Drink and Explore",croatia travel guide,,,4,Dubrovnik
+34,Glasgow,City hub,UK,Scotland,New pillar to create,"Glasgow Travel Guide: Where to Eat, Drink and Explore",glasgow travel guide,70,34.0,4,
+35,Scotland,Country hub,UK,UK,New pillar to create,"Scotland Travel Guide: Where to Eat, Drink and Explore",scotland travel guide,,,8,"Edinburgh, Glasgow"
+36,Istanbul,City hub,Europe,Europe,New pillar to create,"Istanbul Travel Guide: Where to Eat, Drink and Explore",istanbul travel guide,,,5,
+37,Vienna,City hub,Europe,Europe,New pillar to create,"Vienna Travel Guide: Where to Eat, Drink and Explore",vienna travel guide,,,3,
+38,France,Country hub,Europe,Europe,New pillar to create,"France Travel Guide: Where to Eat, Drink and Explore",france travel guide,,,5,Paris
+39,Hanoi,City hub,Asia,Vietnam,New pillar to create,"Hanoi Travel Guide: Where to Eat, Drink and Explore",hanoi travel guide,170,19.0,5,
+40,Australia,Country hub,Oceania,Oceania,New pillar to create,"Australia Travel Guide: Where to Eat, Drink and Explore",australia travel guide,,,4,
+41,Switzerland,Country hub,Europe,Europe,New pillar to create,"Switzerland Travel Guide: Where to Eat, Drink and Explore",switzerland travel guide,,,3,
+42,UK,Country hub,UK,Home / Destinations,Existing UK post,"UK Travel Guide: Where to Eat, Drink and Explore",uk travel guide,,,3,"England, Scotland, Wales"
+43,Naples,City hub,Europe,Italy,New pillar to create,"Naples Travel Guide: Where to Eat, Drink and Explore",naples travel guide,200,9.7,3,
+44,Krakow,City hub,Europe,Europe,New pillar to create,"Krakow Travel Guide: Where to Eat, Drink and Explore",krakow travel guide,,,3,
+45,Ireland,Country hub,Europe,Europe,New pillar to create,"Ireland Travel Guide: Where to Eat, Drink and Explore",ireland travel guide,,,2,Dublin
+46,Chicago,City hub,North America,USA,Existing Chicago post,"Chicago Travel Guide: Where to Eat, Drink and Explore",chicago travel guide,,,5,
+47,Savannah,City hub,North America,USA,New pillar to create,"Savannah Travel Guide: Where to Eat, Drink and Explore",savannah travel guide,,,3,
+48,Dubrovnik,City hub,Europe,Croatia,New pillar to create,"Dubrovnik Travel Guide: Where to Eat, Drink and Explore",dubrovnik travel guide,,,3,
+49,Wales,Country hub,UK,UK,New pillar to create,"Wales Travel Guide: Where to Eat, Drink and Explore",wales travel guide,,,3,
+50,Ho Chi Minh City,City hub,Asia,Vietnam,New pillar to create,"Ho Chi Minh City Travel Guide: Where to Eat, Drink and Explore",ho chi minh city travel guide,,,4,
+51,Porto,City hub,Europe,Portugal,New pillar to create,"Porto Travel Guide: Where to Eat, Drink and Explore",porto travel guide,,,3,
+52,Greece,Country hub,Europe,Europe,New pillar to create,"Greece Travel Guide: Where to Eat, Drink and Explore",greece travel guide,,,4,Athens
+53,Charleston,City hub,North America,USA,New pillar to create,"Charleston Travel Guide: Where to Eat, Drink and Explore",charleston travel guide,,,4,
+54,Seoul,City hub,Asia,Asia,New pillar to create,"Seoul Travel Guide: Where to Eat, Drink and Explore",seoul travel guide,,,3,
+55,Mexico,Country hub,Latin America & Caribbean,Latin America & Caribbean,New pillar to create,"Mexico Travel Guide: Where to Eat, Drink and Explore",mexico travel guide,,,5,
+56,Hong Kong,Country hub,Asia,Asia,New pillar to create,"Hong Kong Travel Guide: Where to Eat, Drink and Explore",hong kong travel guide,,,4,
+57,San Francisco,City hub,North America,USA,New pillar to create,"San Francisco Travel Guide: Where to Eat, Drink and Explore",san francisco travel guide,,,5,
+58,Vietnam,Country hub,Asia,Asia,"Existing Vietnam post (Sapa, Hue, Ninh Binh posts sit under it)","Vietnam Travel Guide: Where to Eat, Drink and Explore",vietnam travel guide,,,1,"Hanoi, Ho Chi Minh City"
+59,Africa & Middle East,Region hub,Africa & Middle East,Home / Destinations,New pillar to create,"Africa & Middle East Travel Guide: Best Places to Eat, Drink and Explore",africa & middle east travel guide,,,3,
+60,Peru,Country hub,Latin America & Caribbean,Latin America & Caribbean,Existing Peru post,"Peru Travel Guide: Where to Eat, Drink and Explore",peru travel guide,,,2,
+61,Global,Region hub,Global,Home / Destinations,New pillar to create,"Travel Inspiration: The World's Best Bars, Food and Places",,,,1,
+62,Austin,City hub,North America,USA,New pillar to create,"Austin Travel Guide: Where to Eat, Drink and Explore",austin travel guide,,,3,
+63,Miami,City hub,North America,USA,New pillar to create,"Miami Travel Guide: Where to Eat, Drink and Explore",miami travel guide,,,3,
+64,Portugal,Country hub,Europe,Europe,Existing Portugal post,"Portugal Travel Guide: Where to Eat, Drink and Explore",portugal travel guide,,,2,"Lisbon, Porto"
+65,Thailand,Country hub,Asia,Asia,Existing Thailand post,"Thailand Travel Guide: Where to Eat, Drink and Explore",thailand travel guide,,,2,Bangkok
+66,Latin America & Caribbean,Region hub,Latin America & Caribbean,Home / Destinations,New pillar to create,"Latin America & Caribbean Travel Guide: Best Places to Eat, Drink and Explore",latin america & caribbean travel guide,,,2,"Mexico, Peru"
+67,Japan,Country hub,Asia,Asia,Existing Japan post,"Japan Travel Guide: Where to Eat, Drink and Explore",japan travel guide,,,0,"Kyoto, Osaka, Tokyo"
